@@ -1,5 +1,4 @@
 ## Digital System Design Lab 
-Proteus Sample
->[ALU](ALU/sample.png) <br>
->[Booth Multiplication](Booth%20Multiplication/sample.png)<br>
->[SAP1](SAP1/sample.png)
+>[ALU Sample](ALU/sample.png) <br>
+>[Booth Multiplication Sample](Booth%20Multiplication/sample.png)<br>
+>[SAP1 Sample](SAP1/sample.png)
